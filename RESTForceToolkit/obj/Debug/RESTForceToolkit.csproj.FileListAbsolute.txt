@@ -1,0 +1,8 @@
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\Bin\Debug\RESTForceToolkit.dll
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\Bin\Debug\RESTForceToolkit.pdb
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\Bin\Debug\Newtonsoft.Json.WindowsPhone.pdb
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\Bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\obj\Debug\ResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\obj\Debug\RESTForceToolkit.dll
+c:\users\josh\documents\visual studio 2010\Projects\RESTForceToolkit\RESTForceToolkit\obj\Debug\RESTForceToolkit.pdb
